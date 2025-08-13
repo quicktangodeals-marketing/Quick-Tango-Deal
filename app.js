@@ -21,7 +21,7 @@ const appData = {
       "flipkart_price": 1099,
       "amazon_url": "https://amazon.in/search?k=wireless+bluetooth+earbuds",
       "flipkart_url": "https://flipkart.com/search?q=wireless+bluetooth+earbuds",
-      "savings": 300+,
+      "savings": 300,
       "category": "Electronics",
       "stock": "In Stock"
     },
