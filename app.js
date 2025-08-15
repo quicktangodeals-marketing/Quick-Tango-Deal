@@ -14,7 +14,7 @@ const appData = {
     {
       "id": 1,
       "name": "Wooden Chopping Board | Premium Quality | 30x20 cm",
-      "image": "https://m.media-amazon.com/images/I/61-Fl5bPt8L._SL1500_.jpg",
+      "image": "https://images.meesho.com/images/products/387689927/wgqfw_512.avif?width=512",
       "description": "High-quality wooden chopping board, perfect for all your kitchen needs. Durable and easy to clean.",
       "qtd_price": 199,
       "amazon_price": 270,
